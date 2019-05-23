@@ -1,0 +1,12 @@
+{
+  "name": "femug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nuxt": "^2.7.1"
+  },
+  "scripts": {
+    "dev": "nuxt"
+  }
+}
